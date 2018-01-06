@@ -53,13 +53,13 @@ app.get('/api/contatos/:contatoId', function(req, res) {
 	if (busca.length == 0) {	
 		res.status(404).send('Not found');
 		return;	
-	};	
+	}	
 
 	res.json(busca[0]);
 });
 
 app.post('/api/contatos', function(req, res) { 	
-	contatos.push(req.body)
+	contatos.push(req.body);
 	res.json(req.body);
 });
 
@@ -73,7 +73,7 @@ app.delete('/api/contatos/:contatoId', function(req, res) {
 	if (busca.length == 0) {
 		res.json({deleted: false});	
 		return;	
-	};
+	}
 
 	contatos = contatos.filter(function(contatoProcurado){
 		return contatoProcurado.serial != contatoId;
