@@ -1,6 +1,4 @@
-# expressjs
-
-[![Build Status](https://travis-ci.org/mauroao/expressjs.svg?branch=master)](https://travis-ci.org/mauroao/expressjs)
+# expressjs [![Build Status](https://travis-ci.org/mauroao/expressjs.svg?branch=master)](https://travis-ci.org/mauroao/expressjs)
 
 API REST com Express
 
