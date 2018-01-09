@@ -28,7 +28,7 @@ app.get('/',  (req, res) => {
     <code>api/operadoras/</code>
   </p>
   <h4>Info:</h4>
-  <p>Service Type: "<code>${service.getServiceDescription()}</code>" </p>
+  <p>Service type: "<code>${service.getServiceDescription()}</code>" </p>
 </body></html>
 `;
   res.send(responseBody);
