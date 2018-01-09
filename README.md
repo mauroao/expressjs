@@ -18,7 +18,7 @@ Dentro do diretório da aplicação, executar o comando `npm install`;
 
 É possível escolher entre dados mockados ou MongoDB, alterando o conteúdo da variável `mocking` para `true` ou `false`, dentro do arquivo `/src/config/config.js`;
 
-A string de conexão do MongoDB é obtida através de uma variável de ambiente, definida conforme o exemplo abaixo (linux):
+A string de conexão do MongoDB é obtida através de uma variável de ambiente, definida conforme o exemplo abaixo:
 
 ```bash
 export LISTA_TELEFONICA_MONGODB_ADDRESS="mongodb://user:pass@xxxxx.mlab.com:45357/lista-telefonica"
