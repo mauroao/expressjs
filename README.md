@@ -14,6 +14,16 @@ Este projeto implementa uma API RESTful na plataforma [Node.js](http://nodejs.or
 
 Dentro do diretório da aplicação, executar o comando `npm install`;
 
+## Configuração
+
+É possível escolher entre dados mockados ou MongoDB, alterando o conteúdo da variável `mocking` para `true` ou `false`, dentro do arquivo `/src/config/config.js`;
+
+A string de conexão do MongoDB é obtida através de uma variável de ambiente, definida conforme o exemplo abaixo (linux):
+
+```bash
+export LISTA_TELEFONICA_MONGODB_ADDRESS="mongodb://user:pass@xxxxx.mlab.com:45357/lista-telefonica"
+``` 
+
 ## Observações
 
 * Esta API pode ser consumida pelo projeto [mauroao/angular.js](https://github.com/mauroao/angular.js);

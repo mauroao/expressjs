@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node src/app.js",
     "live": "nodemon src/app.js",
-    "test": "./node_modules/jshint/bin/jshint src/ "
+    "test": "./node_modules/jshint/bin/jshint --verbose  src/ "
   },
   "author": "",
   "license": "ISC",

@@ -2,8 +2,7 @@ let mongoose = require('mongoose');
 let Contato = require('../models/contato.model');
 let Operadora = require('../models/operadora.model');
 
-let db_path = 'mongodb://mlab:mlab@ds245357.mlab.com:45357/lista-telefonica';
-//let db_path = 'mongodb://127.0.0.1/lista-telefonica';
+let db_path = process.env.LISTA_TELEFONICA_MONGODB_ADDRESS || 'mongodb://127.0.0.1/lista-telefonica';
 
 let options = { 
     useMongoClient: true,
@@ -26,6 +25,9 @@ let handleError = (err, res) => {
 };
 
 module.exports = {
+    getServiceDescription: () => {
+       return `driver: mongoose, address: ${db_path}`;
+    },
     
     getContatos: (req, res) => { 	
         let promise = Contato.find({}).exec();

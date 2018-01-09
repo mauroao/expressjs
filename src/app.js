@@ -1,8 +1,8 @@
 let express = require('express');
 let app = express();
 let bodyParser = require('body-parser');
-// let service = require('./services/mock.service');
-let service = require('./services/mongodb.service');
+let config = require('./config/config');
+let service = require(`./services/${config.getServiceType()}.service`);
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -19,7 +19,19 @@ app.use((req, res, next) => {
 // api:
 
 app.get('/',  (req, res) => {
-  res.send('REST API is Working ! Access: /api/contatos');
+  let responseBody = `
+<html> <head></head> <body style="color: grey;">
+  <h2>Lista Telefonica RESTful API</h2>
+  <h4>API: </h4>
+  <p>
+    <code>api/contatos/</code> <br />
+    <code>api/operadoras/</code>
+  </p>
+  <h4>Info:</h4>
+  <p>Service Type: "<code>${service.getServiceDescription()}</code>" </p>
+</body></html>
+`;
+  res.send(responseBody);
 });
 
 app.get('/api/contatos', service.getContatos);

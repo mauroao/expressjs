@@ -16,6 +16,9 @@ let contatos = [
 ];
 
 module.exports = {
+    getServiceDescription: () => {
+        return 'javascript mock';
+    },
     getContatos: (req, res) => { 		
         res.json(contatos);
     },
