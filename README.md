@@ -2,6 +2,8 @@
 
 API REST com Express
 
+[![ExpressJS](https://raw.githubusercontent.com/mauroao/expressjs/master/docs/diagrama.draw.io.png)](https://mauroao-lista-telefonica-api.herokuapp.com)
+
 ## Introdução
 
 Este projeto implementa uma API RESTful na plataforma [Node.js](http://nodejs.org) com persistência em [MongoDB](https://www.mongodb.com), com o auxílio das bibliotecas [expressjs](https://expressjs.com) e [mongoose](http://mongoosejs.com).
