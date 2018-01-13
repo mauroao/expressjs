@@ -1,3 +1,5 @@
+let contatos = require('../../database/mock_data/contatos.mock');
+
 let operadoras = [
 	{nome: 'Oi', codigo: 14, categoria: 'Celular', preco: 2.0},
 	{nome: 'Tim', codigo: 15, categoria: 'Celular', preco: 2.1},
@@ -6,6 +8,7 @@ let operadoras = [
 	{nome: 'Embratel', codigo: 21, categoria: 'Fixo', preco: 2.4}
 ];
 
+/*
 let contatos = [
 	{serial: 123456, nome: 'Pedro', telefone: '9999-8888', data: new Date(), operadora: operadoras[0]},
 	{serial: 234567, nome: 'Ana', telefone: '9999-8877', data: new Date(), operadora: operadoras[1]},
@@ -14,6 +17,7 @@ let contatos = [
 	{serial: 934560, nome: 'Ana da Silva', telefone: '9999-8872', data: new Date(), operadora: operadoras[4]},
 	{serial: 991230, nome: 'Rubens da Silva', telefone: '9999-8826', data: new Date(), operadora: operadoras[0]}
 ];
+*/
 
 module.exports = {
     getServiceDescription: () => {
