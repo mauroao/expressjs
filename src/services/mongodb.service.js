@@ -24,13 +24,61 @@ let handleError = (err, res) => {
     res.status(500).send(message);
 };
 
+const _getContatos = (pageNumber, limit) => {
+    pageNumber = parseInt(pageNumber);
+    limit = parseInt(limit);
+
+    const skipNumber = (pageNumber -1) * limit;
+
+    const paginatedDataPromise = Contato
+        .find({})
+        .sort({nome: 'asc'})
+        .skip(skipNumber)
+        .limit(limit)
+        /*.select({nome: 1, id: -1})*/
+        .exec();
+    
+    const totalCountPromise = Contato  
+        .find({}).select({id: 1}).count().exec();
+
+    return new Promise((resolve, reject) => {
+
+        Promise.all([paginatedDataPromise, totalCountPromise])
+        .then(result => {
+            const [paginatedData, totalCount] = result;
+            const totalPages = Math.ceil(totalCount / limit);
+
+            resolve({
+                totalCount: totalCount,
+                totalPages: totalPages,
+                pageNumber: pageNumber,
+                paginatedData: paginatedData
+            });
+
+        })
+        .catch(err => {
+            reject(err);
+        });	
+
+    });
+};
+
 module.exports = {
     getServiceDescription: () => {
        return `driver: mongoose, address: ${db_path}`;
     },
     
     getContatos: (req, res) => { 	
-        let promise = Contato.find({}).exec();
+        let pageNumber = req.query.pagenumber;
+        let limit = req.query.limit;
+
+        let promise;
+
+        if (pageNumber && limit) {
+            promise = _getContatos(pageNumber, limit);
+        } else {
+            promise = Contato.find({}).exec();
+        }
         
         promise
             .then(result => res.json(result))
