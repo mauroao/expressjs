@@ -24,22 +24,30 @@ let handleError = (err, res) => {
     res.status(500).send(message);
 };
 
-const _getContatos = (pageNumber, limit) => {
+const _getContatos = (pageNumber, limit, findName = '') => {
     pageNumber = parseInt(pageNumber);
     limit = parseInt(limit);
+
+    let findNameObject = {};
+    if (findName.length > 0) {
+
+        findNameObject = {
+            nome: new RegExp(findName, "i")
+        };
+    }
 
     const skipNumber = (pageNumber -1) * limit;
 
     const paginatedDataPromise = Contato
-        .find({})
+        .find(findNameObject)
         .sort({nome: 'asc'})
         .skip(skipNumber)
         .limit(limit)
-        /*.select({nome: 1, id: -1})*/
+        
         .exec();
     
     const totalCountPromise = Contato  
-        .find({}).select({id: 1}).count().exec();
+        .find(findNameObject).select({id: 1}).count().exec();
 
     return new Promise((resolve, reject) => {
 
@@ -71,11 +79,12 @@ module.exports = {
     getContatos: (req, res) => { 	
         let pageNumber = req.query.pagenumber;
         let limit = req.query.limit;
+        let findName = req.query.findname || '';
 
         let promise;
 
         if (pageNumber && limit) {
-            promise = _getContatos(pageNumber, limit);
+            promise = _getContatos(pageNumber, limit, findName);
         } else {
             promise = Contato.find({}).exec();
         }
