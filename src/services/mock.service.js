@@ -1,4 +1,6 @@
-let contatos = require('../../database/mock_data/contatos.mock');
+let _ = require('underscore');
+let unsortedContatos = require('../../database/mock_data/contatos.mock');
+let contatos = _.sortBy(unsortedContatos, contato => contato.nome);
 
 let operadoras = [
 	{nome: 'Oi', codigo: 14, categoria: 'Celular', preco: 2.0},
@@ -8,24 +10,47 @@ let operadoras = [
 	{nome: 'Embratel', codigo: 21, categoria: 'Fixo', preco: 2.4}
 ];
 
-/*
-let contatos = [
-	{serial: 123456, nome: 'Pedro', telefone: '9999-8888', data: new Date(), operadora: operadoras[0]},
-	{serial: 234567, nome: 'Ana', telefone: '9999-8877', data: new Date(), operadora: operadoras[1]},
-	{serial: 891234, nome: 'Maria', telefone: '9999-8866', data: new Date(), operadora: operadoras[2]},
-	{serial: 923450, nome: 'Antonio da Silva', telefone: '9999-2888', data: new Date(), operadora: operadoras[3]},
-	{serial: 934560, nome: 'Ana da Silva', telefone: '9999-8872', data: new Date(), operadora: operadoras[4]},
-	{serial: 991230, nome: 'Rubens da Silva', telefone: '9999-8826', data: new Date(), operadora: operadoras[0]}
-];
-*/
-
 module.exports = {
     getServiceDescription: () => {
         return 'javascript mock';
     },
+
     getContatos: (req, res) => { 		
-        res.json(contatos);
+        let pageNumber = req.query.pagenumber;
+        let limit = req.query.limit;
+        let findName = req.query.findname || '';
+
+        if (pageNumber && limit) { 
+            pageNumber = parseInt(pageNumber);
+            limit = parseInt(limit);
+            const skipNumber = (pageNumber -1) * limit;
+            
+            let filteredData;
+            if (findName.length > 0) {
+                let regx = new RegExp(findName, "i");
+                filteredData = contatos.filter(contato => {
+                    return regx.test(contato.nome);
+                });
+            } else {
+                filteredData = contatos;
+            }
+
+            const totalCount = filteredData.length;
+            const totalPages = Math.ceil(totalCount / limit);
+            
+            const paginatedData = _.first(_.rest(filteredData, skipNumber), limit); 
+            
+            res.json({
+                totalCount: totalCount,
+                totalPages: totalPages,
+                pageNumber: pageNumber,
+                paginatedData: paginatedData
+            });
+        } else {
+            res.json(contatos);
+        }
     },
+
     getContato: (req, res) => { 	
         let contatoId = (req.params.contatoId || 0);
     
@@ -38,10 +63,12 @@ module.exports = {
     
         res.json(busca[0]);
     },
+
     saveContato: (req, res) => { 	
         contatos.push(req.body);
         res.json(req.body);
     },
+
     deleteContato: (req, res) => {
         let contatoId = (req.params.contatoId || 0);
     
@@ -56,6 +83,7 @@ module.exports = {
     
         res.json({deleted: true});
     },
+
     getOperadoras: (req, res) => { 		
         res.json(operadoras);
     }

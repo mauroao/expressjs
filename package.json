@@ -16,7 +16,8 @@
   "dependencies": {
     "body-parser": "1.17.1",
     "express": "4.15.2",
-    "mongoose": "^4.13.9"
+    "mongoose": "^4.13.9",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "jshint": "^2.9.5"
