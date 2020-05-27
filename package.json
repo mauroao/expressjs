@@ -8,21 +8,17 @@
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
-    "live": "nodemon src/app.js",
-    "test": "./node_modules/jshint/bin/jshint --verbose  src/ "
+    "test": "./node_modules/.bin/eslint src/**"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "1.17.1",
-    "express": "4.15.2",
-    "mongoose": "^4.13.9",
-    "underscore": "^1.8.3"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.16",
+    "underscore": "^1.10.2"
   },
   "devDependencies": {
-    "jshint": "^2.9.5"
-  },
-  "jshintConfig": {
-    "esversion": 6
+    "eslint": "^7.1.0"
   }
 }

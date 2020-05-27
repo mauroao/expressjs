@@ -4,7 +4,7 @@ const config = require('../config/config');
 const service = require(`../services/${config.getServiceType()}.service`);
 
 router.get('/',  (req, res) => {
-    const responseBody = `
+  const responseBody = `
   <html> <head></head> <body style="color: grey;">
     <h2>Lista Telefonica RESTful API</h2>
     <h4>API: </h4>
@@ -16,7 +16,7 @@ router.get('/',  (req, res) => {
     <p>Service type: "<code>${service.getServiceDescription()}</code>" </p>
   </body></html>
   `;
-    res.send(responseBody);
-  });
+  res.send(responseBody);
+});
 
 module.exports = router;

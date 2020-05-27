@@ -25,6 +25,23 @@ A string de conexão do MongoDB é obtida através de uma variável de ambiente,
 ```bash
 export LISTA_TELEFONICA_MONGODB_ADDRESS="mongodb://user:pass@xxxxx.mlab.com:45357/lista-telefonica"
 ``` 
+## Execução
+
+1. `cd expressjs` - entrar no diretório da aplicacão;
+2. `npm start` - executar;
+
+## Test (ESLint)
+
+1. `cd expressjs` - entrar no diretório da aplicacão;
+2. `npm test` - executar o ESLint;
+
+## Continuous Integration
+
+Este aplicativo possui um pipeline de build configurado no [travis-ci.org](https://travis-ci.org).
+
+## Hospedagem
+
+Este aplicativo está hospedado no [heroku.com](https://www.heroku.com).
 
 ## Observações
 
