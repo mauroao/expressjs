@@ -1,5 +1,3 @@
-# expressjs [![Build Status](https://travis-ci.org/mauroao/expressjs.svg?branch=master)](https://travis-ci.org/mauroao/expressjs)
-
 API REST com Express
 
 [![ExpressJS](https://raw.githubusercontent.com/mauroao/expressjs/master/docs/diagrama.draw.io.png)](https://mauroao-lista-telefonica-api.herokuapp.com)
@@ -32,7 +30,7 @@ export LISTA_TELEFONICA_MONGODB_ADDRESS="mongodb://user:pass@xxxxx.mlab.com:4535
 
 ## Test (ESLint)
 
-1. `cd expressjs` - entrar no diretório da aplicacão;
+1. `cd expressjs` - entrar no diretório da aplicação;
 2. `npm test` - executar o ESLint;
 
 ## Continuous Integration
