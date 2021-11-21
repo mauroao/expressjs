@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/mauroao/expressjs/actions/workflows/node.js.yml/badge.svg)](https://github.com/mauroao/expressjs/actions/workflows/node.js.yml)
 # Phone Book API
 
 [![ExpressJS](https://raw.githubusercontent.com/mauroao/expressjs/master/docs/diagrama.draw.io.png)](https://mauroao-lista-telefonica-api.herokuapp.com)
