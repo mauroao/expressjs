@@ -1,47 +1,52 @@
-API REST com Express
+Phone Book API
 
 [![ExpressJS](https://raw.githubusercontent.com/mauroao/expressjs/master/docs/diagrama.draw.io.png)](https://mauroao-lista-telefonica-api.herokuapp.com)
 
-## Introdução
+## What is Phone Book API?
 
-Este projeto implementa uma API RESTful na plataforma [Node.js](http://nodejs.org) com persistência em [MongoDB](https://www.mongodb.com), com o auxílio das bibliotecas [expressjs](https://expressjs.com) e [mongoose](http://mongoosejs.com).
+- "Phone Book API" is a personal Node.js API for study purposes;
+- It uses [expressjs](https://expressjs.com);
+- It uses [mongoose](http://mongoosejs.com);
+- It uses [MongoDB](https://www.mongodb.com);
+- This app is hosted at [heroku.com](https://www.heroku.com);
 
-## Instalação
+## Prerequisites 
 
-1. `git clone git@github.com:mauroao/expressjs.git` - clonar do github;
-2. `cd expressjs` - entrar no diretório da aplicacão;
-3. `npm install` - instalar os pacotes npm;
+- It uses [Node.js v16.13.0](http://nodejs.org);
 
-Dentro do diretório da aplicação, executar o comando `npm install`;
+## Get Started
 
-## Configuração
+Open terminal, type the following commands:
+```bash
+> git clone git@github.com:mauroao/expressjs.git
+> cd expressjs
+> npm install
+```
 
-É possível escolher entre dados mockados ou MongoDB, alterando o conteúdo da variável `mocking` para `true` ou `false`, dentro do arquivo `/src/config/config.js`;
+## Configure
 
-A string de conexão do MongoDB é obtida através de uma variável de ambiente, definida conforme o exemplo abaixo:
+- Open `/src/config/config.js` file;
+- Change the value of `mocking` variable to `true` or `false`;
+- If `true`: the api will load mock data; 
+- If `false` api will load data from a mongo db instance;
+- If database is choosen, configure an environment variable to set the database connection string as follows: 
 
 ```bash
-export LISTA_TELEFONICA_MONGODB_ADDRESS="mongodb://user:pass@xxxxx.mlab.com:45357/lista-telefonica"
+> export LISTA_TELEFONICA_MONGODB_ADDRESS="mongodb://user:pass@xxxxx.mlab.com:45357/lista-telefonica"
 ``` 
-## Execução
 
-1. `cd expressjs` - entrar no diretório da aplicacão;
-2. `npm start` - executar;
+## Run
+```bash
+> npm start
+```
 
-## Test (ESLint)
+## Run lint 
 
-1. `cd expressjs` - entrar no diretório da aplicação;
-2. `npm test` - executar o ESLint;
+```bash
+> npm test
+```
 
-## Continuous Integration
+## Remarks
 
-Este aplicativo possui um pipeline de build configurado no [travis-ci.org](https://travis-ci.org).
-
-## Hospedagem
-
-Este aplicativo está hospedado no [heroku.com](https://www.heroku.com).
-
-## Observações
-
-* Esta API pode ser consumida pelo projeto [mauroao/angular.js](https://github.com/mauroao/angular.js);
-* Uma versão na nuvem, publicada no [heroku](https://www.heroku.com/home), está disponível no endereço [https://mauroao-lista-telefonica-api.herokuapp.com](https://mauroao-lista-telefonica-api.herokuapp.com);
+* This API is consumed by another project: [mauroao/angular.js](https://github.com/mauroao/angular.js);
+* This API is published at [https://mauroao-lista-telefonica-api.herokuapp.com](https://mauroao-lista-telefonica-api.herokuapp.com);
