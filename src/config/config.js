@@ -1,4 +1,4 @@
-let mocking = false;
+let mocking = true;
 
 module.exports = {
   getServiceType: () => {

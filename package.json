@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Lista telefonica REST API",
   "engines": {
-    "node": "8.9.1"
+    "node": "v16.13.0"
   },
   "main": "src/app.js",
   "scripts": {
