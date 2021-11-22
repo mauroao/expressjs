@@ -3,7 +3,7 @@ const router = express.Router();
 const config = require('../config/config');
 const service = require(`../services/${config.getServiceType()}.service`);
 
-router.get('/',  (req, res) => {
+router.get('/', (req, res) => {
   const responseBody = `
   <html> <head></head> <body style="color: grey;">
     <h2>Lista Telefonica RESTful API</h2>

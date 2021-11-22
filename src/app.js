@@ -14,6 +14,6 @@ app.use('/api/', accessControl);
 app.use('/api/contatos/', contatos);
 app.use('/api/operadoras/', operadoras);
 
-app.listen(port,  () => {
+app.listen(port, () => {
   console.log(`[OK] => express().listen(${port})`);
 });

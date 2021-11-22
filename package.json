@@ -8,7 +8,9 @@
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
-    "test": "./node_modules/.bin/eslint src/**"
+    "test": "eslint src/**",
+    "lint": "eslint src/**",
+    "lint:fix": "eslint --fix src/**"
   },
   "author": "",
   "license": "ISC",
@@ -19,6 +21,9 @@
     "underscore": "^1.13.1"
   },
   "devDependencies": {
-    "eslint": "^8.2.0"
+    "eslint": "^8.3.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.4.1"
   }
 }
