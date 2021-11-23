@@ -1,90 +1,63 @@
-let _ = require('underscore');
-let unsortedContatos = require('../../database/mock_data/contatos.mock');
-let contatos = _.sortBy(unsortedContatos, (contato) => contato.nome);
+import {
+  contatosFake,
+  operadorasFake
+} from '../../database/fake_data/index.js';
 
-let operadoras = [
-  { nome: 'Oi', codigo: 14, categoria: 'Celular', preco: 2.0 },
-  { nome: 'Tim', codigo: 15, categoria: 'Celular', preco: 2.1 },
-  { nome: 'Vivo', codigo: 41, categoria: 'Celular', preco: 2.2 },
-  { nome: 'GVT', codigo: 25, categoria: 'Fixo', preco: 2.3 },
-  { nome: 'Embratel', codigo: 21, categoria: 'Fixo', preco: 2.4 }
-];
+let contatos = contatosFake;
+const operadoras = operadorasFake;
 
-module.exports = {
-  getServiceDescription: () => {
+function filterByName(data, namePattern) {
+  if (!namePattern) {
+    return data;
+  }
+  const regx = new RegExp(namePattern, 'i');
+  return data.filter((item) => {
+    return regx.test(item.nome);
+  });
+}
+
+function paginate(data, skip, take) {
+  const start = skip;
+  const end = skip + take;
+  return data.slice(start, end);
+}
+
+export const fakeService = {
+  getServiceDescription: function () {
     return 'javascript mock';
   },
 
-  getContatos: (req, res) => {
-    let pageNumber = req.query.pagenumber;
-    let limit = req.query.limit;
-    let findName = req.query.findname || '';
+  getContatos: function (pageNumber, limit, findByName) {
+    const filteredData = filterByName(contatos, findByName);
 
-    if (pageNumber && limit) {
-      pageNumber = parseInt(pageNumber);
-      limit = parseInt(limit);
-      const skipNumber = (pageNumber - 1) * limit;
+    const skip = (pageNumber - 1) * limit;
+    const totalCount = filteredData.length;
+    const totalPages = Math.ceil(totalCount / limit);
+    const paginatedData = paginate(filteredData, skip, limit);
 
-      let filteredData;
-      if (findName.length > 0) {
-        let regx = new RegExp(findName, 'i');
-        filteredData = contatos.filter((contato) => {
-          return regx.test(contato.nome);
-        });
-      } else {
-        filteredData = contatos;
-      }
-
-      const totalCount = filteredData.length;
-      const totalPages = Math.ceil(totalCount / limit);
-
-      const paginatedData = _.first(_.rest(filteredData, skipNumber), limit);
-
-      res.json({
-        totalCount: totalCount,
-        totalPages: totalPages,
-        pageNumber: pageNumber,
-        paginatedData: paginatedData
-      });
-    } else {
-      res.json(contatos);
-    }
+    return { totalCount, totalPages, pageNumber, paginatedData };
   },
 
-  getContato: (req, res) => {
-    let contatoId = req.params.contatoId || 0;
+  getContato: function (contatoId) {
+    return contatos.filter((contato) => contato.serial == contatoId);
+  },
 
-    let busca = contatos.filter((contato) => contato.serial == contatoId);
+  saveContato: function (contato) {
+    contatos.push(contato);
+    return contato;
+  },
 
+  deleteContato: function (contatoId) {
+    const busca = contatos.filter((contato) => contato.serial == contatoId);
     if (busca.length == 0) {
-      res.status(404).send('Not found');
-      return;
+      return { deleted: false };
     }
-
-    res.json(busca[0]);
-  },
-
-  saveContato: (req, res) => {
-    contatos.push(req.body);
-    res.json(req.body);
-  },
-
-  deleteContato: (req, res) => {
-    let contatoId = req.params.contatoId || 0;
-
-    let busca = contatos.filter((contato) => contato.serial == contatoId);
-
-    if (busca.length == 0) {
-      res.json({ deleted: false });
-      return;
-    }
-
     contatos = contatos.filter((contato) => contato.serial != contatoId);
 
-    res.json({ deleted: true });
+    return { deleted: true };
   },
 
-  getOperadoras: (req, res) => {
-    res.json(operadoras);
+  getOperadoras: function () {
+    return operadoras;
   }
 };

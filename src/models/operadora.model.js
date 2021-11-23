@@ -1,11 +1,12 @@
-let mongoose = require('mongoose');
-let Schema = mongoose.Schema;
+import { model, Schema } from 'mongoose';
 
-let OperadoraSchema = new Schema({
+const operadoraSchema = new Schema({
   categoria: { type: String },
   codigo: { type: String },
   nome: { type: String },
   preco: { type: Number }
 });
 
-module.exports = mongoose.model('Operadora', OperadoraSchema);
+const operadoraModel = model('Operadora', operadoraSchema);
+
+export { operadoraModel };

@@ -1,7 +1,6 @@
-let mongoose = require('mongoose');
-let Schema = mongoose.Schema;
+import { model, Schema } from 'mongoose';
 
-let ContatoSchema = new Schema({
+const contatoSchema = new Schema({
   serial: { type: String },
   nome: { type: String },
   telefone: { type: String },
@@ -17,4 +16,6 @@ let ContatoSchema = new Schema({
   }
 });
 
-module.exports = mongoose.model('Contato', ContatoSchema);
+const contatoModel = model('Contato', contatoSchema);
+
+export { contatoModel };

@@ -1,7 +1,8 @@
-const express = require('express');
-const router = express.Router();
-const service = require('../services/service.factory').getService();
+import { Router } from 'express';
+import { operadorasController } from '../controllers/operadoras.controller.js';
 
-router.get('/', service.getOperadoras);
+const operadorasRouter = Router();
 
-module.exports = router;
+operadorasRouter.get('/', operadorasController.getOperadoras);
+
+export { operadorasRouter };
