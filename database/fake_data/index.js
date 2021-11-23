@@ -1,6 +1,9 @@
-import contatosData from './contatos.json';
-import operadorasData from './operadoras.json';
 import { sortBy } from 'underscore';
+import { readFileSync } from 'fs';
 
-export const operadorasFake = operadorasData;
-export const contatosFake = sortBy(contatosData, (contato) => contato.nome);
+function load(path) {
+  return JSON.parse(readFileSync(new URL(path, import.meta.url)));
+}
+
+export const operadorasFake = load('./operadoras.json');
+export const contatosFake = sortBy(load('./contatos.json'), (contato) => contato.nome);
