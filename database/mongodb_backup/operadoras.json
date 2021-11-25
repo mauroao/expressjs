@@ -1,5 +1,0 @@
-{"_id":{"$oid":"5a52729b5aa7080782810575"},"nome":"Oi","codigo":14.0,"categoria":"Celular","preco":2.0}
-{"_id":{"$oid":"5a52729b5aa7080782810576"},"nome":"Tim","codigo":15.0,"categoria":"Celular","preco":2.1}
-{"_id":{"$oid":"5a52729b5aa7080782810577"},"nome":"Vivo","codigo":41.0,"categoria":"Celular","preco":2.2}
-{"_id":{"$oid":"5a52729b5aa7080782810578"},"nome":"GVT","codigo":25.0,"categoria":"Fixo","preco":2.3}
-{"_id":{"$oid":"5a52729b5aa7080782810579"},"nome":"Embratel","codigo":21.0,"categoria":"Fixo","preco":2.4}

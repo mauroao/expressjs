@@ -1,0 +1,4802 @@
+[
+  {
+    "serial": "203169",
+    "nome": "Frederick Alvarado",
+    "telefone": "16128-1304",
+    "data": "2019-10-25T03:55:19",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "983201",
+    "nome": "Collins Macias",
+    "telefone": "18226-1255",
+    "data": "2019-11-25T01:46:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "434329",
+    "nome": "Mullins Oconnor",
+    "telefone": "16256-1208",
+    "data": "2014-06-17T03:54:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "827233",
+    "nome": "Roberta Wiley",
+    "telefone": "15685-1810",
+    "data": "2015-05-19T01:26:16",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "409647",
+    "nome": "Silvia Bryant",
+    "telefone": "18022-1328",
+    "data": "2017-06-21T09:07:05",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "851619",
+    "nome": "Nellie Schmidt",
+    "telefone": "14749-1705",
+    "data": "2017-02-07T10:37:51",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "793853",
+    "nome": "Blanca Fisher",
+    "telefone": "17127-1103",
+    "data": "2017-05-02T12:35:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "449749",
+    "nome": "Cabrera Pace",
+    "telefone": "10426-1242",
+    "data": "2021-03-11T01:56:22",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "861066",
+    "nome": "Rhea Gallagher",
+    "telefone": "17912-1755",
+    "data": "2021-09-20T12:39:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "420659",
+    "nome": "Calderon Kirkland",
+    "telefone": "11943-1385",
+    "data": "2014-07-04T12:41:09",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "975987",
+    "nome": "Aguirre Bentley",
+    "telefone": "12675-1672",
+    "data": "2019-04-21T09:05:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "840411",
+    "nome": "Pena Hicks",
+    "telefone": "16078-1053",
+    "data": "2020-06-11T12:39:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "560525",
+    "nome": "Strickland Spears",
+    "telefone": "11481-1108",
+    "data": "2019-02-07T02:17:32",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "751549",
+    "nome": "Eugenia Rush",
+    "telefone": "19979-1575",
+    "data": "2019-12-15T08:51:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "684237",
+    "nome": "Thomas Mclaughlin",
+    "telefone": "19615-1262",
+    "data": "2019-03-29T01:39:59",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "227124",
+    "nome": "Maureen Donaldson",
+    "telefone": "15440-1274",
+    "data": "2017-10-15T09:24:43",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "648740",
+    "nome": "Clare Leon",
+    "telefone": "13900-1396",
+    "data": "2016-07-21T08:24:12",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "706869",
+    "nome": "Mcdowell Little",
+    "telefone": "10124-1847",
+    "data": "2014-05-18T03:13:57",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "269655",
+    "nome": "Angie Mccullough",
+    "telefone": "19621-1681",
+    "data": "2018-07-17T02:42:18",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "855387",
+    "nome": "Williams Shepherd",
+    "telefone": "18600-1972",
+    "data": "2020-04-04T06:24:04",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "192180",
+    "nome": "Marguerite Merrill",
+    "telefone": "12845-1888",
+    "data": "2014-03-19T01:00:57",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "723449",
+    "nome": "Cross Bray",
+    "telefone": "10767-1959",
+    "data": "2018-08-02T01:06:13",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "920944",
+    "nome": "Park Cooper",
+    "telefone": "14506-1324",
+    "data": "2018-06-13T10:51:36",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "609851",
+    "nome": "Giles Sheppard",
+    "telefone": "19900-1103",
+    "data": "2014-12-17T06:31:14",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "304872",
+    "nome": "Vaughan Boone",
+    "telefone": "11514-1991",
+    "data": "2015-04-26T02:41:47",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "838303",
+    "nome": "Cleveland Allen",
+    "telefone": "19353-1325",
+    "data": "2018-11-14T07:19:55",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "792140",
+    "nome": "Phyllis Mcfarland",
+    "telefone": "10609-1720",
+    "data": "2021-06-24T09:43:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "617705",
+    "nome": "Glenna Lancaster",
+    "telefone": "17443-1039",
+    "data": "2016-10-05T11:35:20",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "856375",
+    "nome": "Mullen Ayala",
+    "telefone": "16385-1010",
+    "data": "2021-05-29T11:32:08",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "589641",
+    "nome": "Noble Buck",
+    "telefone": "12082-1975",
+    "data": "2016-04-18T05:21:49",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "980385",
+    "nome": "Darlene Roy",
+    "telefone": "17832-1116",
+    "data": "2014-06-19T11:05:51",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "918022",
+    "nome": "Sparks Hansen",
+    "telefone": "13408-1812",
+    "data": "2020-04-27T10:43:57",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "448051",
+    "nome": "Lelia Romero",
+    "telefone": "17098-1657",
+    "data": "2019-04-24T12:48:10",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "404032",
+    "nome": "Shaffer Dickerson",
+    "telefone": "16417-1548",
+    "data": "2018-07-08T10:24:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "330254",
+    "nome": "Arline Gregory",
+    "telefone": "16830-1135",
+    "data": "2018-10-21T02:34:44",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "613996",
+    "nome": "Stevens Taylor",
+    "telefone": "13440-1140",
+    "data": "2018-07-12T01:04:50",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "909155",
+    "nome": "Georgina Reid",
+    "telefone": "15294-1354",
+    "data": "2015-06-25T11:12:41",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "711241",
+    "nome": "Fran Dunlap",
+    "telefone": "10179-1735",
+    "data": "2015-05-11T08:51:57",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "769393",
+    "nome": "Lori Hendricks",
+    "telefone": "11260-1069",
+    "data": "2015-04-08T06:02:51",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "412138",
+    "nome": "Stephenson Ryan",
+    "telefone": "19473-1852",
+    "data": "2020-03-19T06:35:14",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "954724",
+    "nome": "Jefferson Workman",
+    "telefone": "12169-1085",
+    "data": "2018-01-08T07:03:25",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "538005",
+    "nome": "Williamson Morris",
+    "telefone": "16415-1231",
+    "data": "2018-06-02T11:00:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "526692",
+    "nome": "Tyson Pena",
+    "telefone": "17746-1031",
+    "data": "2017-07-17T08:04:22",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "558830",
+    "nome": "Aurelia Sloan",
+    "telefone": "17989-1019",
+    "data": "2021-09-08T05:24:58",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "294234",
+    "nome": "Benson Ochoa",
+    "telefone": "12456-1528",
+    "data": "2014-11-23T05:58:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "739143",
+    "nome": "Michele Hodges",
+    "telefone": "10162-1516",
+    "data": "2020-05-27T08:33:00",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "513116",
+    "nome": "Patel Perry",
+    "telefone": "13768-1807",
+    "data": "2020-04-24T09:50:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "929252",
+    "nome": "Mckay Gomez",
+    "telefone": "18812-1282",
+    "data": "2015-09-28T02:53:54",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "586504",
+    "nome": "Ruthie Davenport",
+    "telefone": "12122-1411",
+    "data": "2017-03-30T02:15:11",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "915917",
+    "nome": "Byers Merritt",
+    "telefone": "15398-1119",
+    "data": "2019-10-08T02:47:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "322843",
+    "nome": "Fuentes Diaz",
+    "telefone": "12579-1436",
+    "data": "2018-08-19T06:26:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "256968",
+    "nome": "Tamara Carver",
+    "telefone": "15563-1988",
+    "data": "2019-09-09T02:07:06",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "730918",
+    "nome": "Lessie Pate",
+    "telefone": "17968-1567",
+    "data": "2018-03-28T01:47:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "832068",
+    "nome": "Shelton Clemons",
+    "telefone": "10861-1674",
+    "data": "2016-06-13T06:27:11",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "538743",
+    "nome": "Harrell Bolton",
+    "telefone": "12823-1517",
+    "data": "2017-09-27T09:41:44",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "246554",
+    "nome": "Brittany Fuller",
+    "telefone": "19336-1332",
+    "data": "2019-08-05T12:18:32",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "359522",
+    "nome": "Burgess Bowman",
+    "telefone": "13030-1400",
+    "data": "2019-03-08T06:29:18",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "263208",
+    "nome": "Lee Dejesus",
+    "telefone": "16534-1882",
+    "data": "2019-07-28T06:23:10",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "163673",
+    "nome": "Beverley Goodman",
+    "telefone": "16435-1610",
+    "data": "2015-10-29T01:15:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "628266",
+    "nome": "Jill Moody",
+    "telefone": "18566-1248",
+    "data": "2018-02-03T08:41:32",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "744697",
+    "nome": "Hester Alexander",
+    "telefone": "19134-1678",
+    "data": "2019-07-12T09:15:23",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "530196",
+    "nome": "Vincent Aguirre",
+    "telefone": "15114-1448",
+    "data": "2014-01-15T04:58:49",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "299534",
+    "nome": "Melba Burns",
+    "telefone": "11285-1360",
+    "data": "2020-04-09T07:03:21",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "155190",
+    "nome": "Susanna Booker",
+    "telefone": "12693-1753",
+    "data": "2019-01-20T09:47:10",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "399923",
+    "nome": "Dawson Goodwin",
+    "telefone": "14370-1101",
+    "data": "2014-08-28T07:54:43",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "100698",
+    "nome": "William Jacobs",
+    "telefone": "19340-1943",
+    "data": "2014-09-16T12:17:45",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "248960",
+    "nome": "Morgan Mccormick",
+    "telefone": "13359-1603",
+    "data": "2019-09-23T03:43:48",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "936572",
+    "nome": "Peters Burton",
+    "telefone": "14873-1447",
+    "data": "2015-03-03T04:46:38",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "605024",
+    "nome": "Ashlee Hernandez",
+    "telefone": "14342-1805",
+    "data": "2016-08-22T04:08:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "513235",
+    "nome": "Sheila Velez",
+    "telefone": "17128-1789",
+    "data": "2021-05-14T07:48:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "174627",
+    "nome": "Simmons Blake",
+    "telefone": "16183-1347",
+    "data": "2016-04-03T05:47:37",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "329404",
+    "nome": "Viola Hobbs",
+    "telefone": "11287-1745",
+    "data": "2019-02-28T07:04:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "736490",
+    "nome": "Fisher Kirby",
+    "telefone": "12562-1937",
+    "data": "2017-01-23T11:53:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "991717",
+    "nome": "Sampson Bright",
+    "telefone": "10569-1618",
+    "data": "2017-01-23T08:13:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "296697",
+    "nome": "Stephanie Fitzpatrick",
+    "telefone": "15477-1278",
+    "data": "2018-10-17T04:21:43",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "654916",
+    "nome": "Wall Hartman",
+    "telefone": "16831-1067",
+    "data": "2019-09-23T03:44:38",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "158681",
+    "nome": "Patty Weiss",
+    "telefone": "17077-1744",
+    "data": "2020-11-29T05:06:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "860424",
+    "nome": "Morales Vega",
+    "telefone": "19205-1763",
+    "data": "2016-10-05T05:18:43",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "451242",
+    "nome": "Cash Knapp",
+    "telefone": "17996-1508",
+    "data": "2016-07-29T09:01:35",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "111486",
+    "nome": "Lynch Talley",
+    "telefone": "16025-1467",
+    "data": "2018-10-13T01:48:38",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "458070",
+    "nome": "Willa Ratliff",
+    "telefone": "13158-1129",
+    "data": "2016-12-31T05:36:57",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "494575",
+    "nome": "Lawrence Cunningham",
+    "telefone": "11385-1866",
+    "data": "2021-04-08T02:32:18",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "661138",
+    "nome": "Walls Freeman",
+    "telefone": "11270-1713",
+    "data": "2017-03-18T03:25:00",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "223534",
+    "nome": "Elvira Walsh",
+    "telefone": "14045-1476",
+    "data": "2016-04-07T07:51:32",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "607533",
+    "nome": "Roseann Fernandez",
+    "telefone": "15446-1173",
+    "data": "2017-03-15T08:24:35",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "549024",
+    "nome": "Alisa Barr",
+    "telefone": "14672-1565",
+    "data": "2020-01-11T12:56:38",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "209295",
+    "nome": "Patrick Ford",
+    "telefone": "18506-1987",
+    "data": "2015-09-24T06:38:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "692969",
+    "nome": "Kirk Ball",
+    "telefone": "18686-1879",
+    "data": "2017-02-20T07:36:55",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "410188",
+    "nome": "Miranda Ortiz",
+    "telefone": "18134-1956",
+    "data": "2021-04-22T06:38:06",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "147412",
+    "nome": "Kirby Owen",
+    "telefone": "16204-1817",
+    "data": "2020-05-22T02:27:37",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "476135",
+    "nome": "Elizabeth Saunders",
+    "telefone": "12983-1427",
+    "data": "2020-03-04T12:58:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "127608",
+    "nome": "Johnnie Middleton",
+    "telefone": "12818-1775",
+    "data": "2017-04-18T08:24:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "691560",
+    "nome": "Christina Rose",
+    "telefone": "18370-1036",
+    "data": "2020-02-09T07:12:04",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "776001",
+    "nome": "Tami Newton",
+    "telefone": "11735-1250",
+    "data": "2019-01-23T07:36:54",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "751892",
+    "nome": "Nell Nixon",
+    "telefone": "10859-1595",
+    "data": "2015-05-03T11:59:27",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "920686",
+    "nome": "Vicky Schultz",
+    "telefone": "11391-1781",
+    "data": "2015-02-09T06:41:41",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "849256",
+    "nome": "Walter Spencer",
+    "telefone": "16773-1345",
+    "data": "2016-03-22T09:51:52",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "598544",
+    "nome": "Olivia Donovan",
+    "telefone": "12335-1820",
+    "data": "2021-07-13T11:39:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "397718",
+    "nome": "Alta Price",
+    "telefone": "14494-1871",
+    "data": "2014-06-10T06:55:00",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "174643",
+    "nome": "Sheree Rocha",
+    "telefone": "13500-1322",
+    "data": "2021-07-24T06:02:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "969109",
+    "nome": "Beatrice Hines",
+    "telefone": "14161-1482",
+    "data": "2016-08-15T09:19:55",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "779089",
+    "nome": "Antoinette Hancock",
+    "telefone": "16289-1896",
+    "data": "2016-02-09T10:50:09",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "858144",
+    "nome": "Hudson Schneider",
+    "telefone": "19418-1521",
+    "data": "2017-09-28T02:29:37",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "595716",
+    "nome": "Camille Richardson",
+    "telefone": "18455-1288",
+    "data": "2021-10-04T05:29:11",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "815474",
+    "nome": "Middleton Watson",
+    "telefone": "19611-1359",
+    "data": "2018-07-08T10:34:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "758040",
+    "nome": "Yates Santos",
+    "telefone": "12083-1515",
+    "data": "2019-08-28T12:01:54",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "354855",
+    "nome": "Dora Graves",
+    "telefone": "16052-1443",
+    "data": "2016-11-26T01:28:37",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "746652",
+    "nome": "Spence Bass",
+    "telefone": "19347-1019",
+    "data": "2018-12-17T01:47:51",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "365440",
+    "nome": "Slater Burgess",
+    "telefone": "19035-1148",
+    "data": "2019-12-29T07:08:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "195731",
+    "nome": "Kinney Dale",
+    "telefone": "11919-1609",
+    "data": "2014-09-22T04:39:13",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "787009",
+    "nome": "Sophie Williamson",
+    "telefone": "11487-1998",
+    "data": "2017-08-11T02:47:04",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "534129",
+    "nome": "Trina Greene",
+    "telefone": "15014-1545",
+    "data": "2021-07-02T08:26:40",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "934308",
+    "nome": "Bette Gutierrez",
+    "telefone": "10693-1635",
+    "data": "2017-04-11T07:40:24",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "265814",
+    "nome": "Baird Woodward",
+    "telefone": "14005-1485",
+    "data": "2020-12-25T12:44:01",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "294799",
+    "nome": "Angeline Caldwell",
+    "telefone": "17388-1450",
+    "data": "2019-12-18T08:21:29",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "612445",
+    "nome": "Munoz Herrera",
+    "telefone": "14406-1569",
+    "data": "2021-01-13T02:34:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "851576",
+    "nome": "Vanessa Wilder",
+    "telefone": "13257-1476",
+    "data": "2019-02-27T01:18:29",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "879338",
+    "nome": "Juana Long",
+    "telefone": "11496-1978",
+    "data": "2015-09-13T05:38:30",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "722463",
+    "nome": "Misty Hess",
+    "telefone": "11851-1853",
+    "data": "2015-12-28T11:38:52",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "702520",
+    "nome": "Kidd Gilbert",
+    "telefone": "12774-1882",
+    "data": "2020-06-12T01:06:36",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "950496",
+    "nome": "Cohen Wade",
+    "telefone": "14802-1437",
+    "data": "2014-06-06T01:12:05",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "395670",
+    "nome": "Decker Molina",
+    "telefone": "18859-1555",
+    "data": "2018-08-05T06:20:32",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "610949",
+    "nome": "Oconnor Owens",
+    "telefone": "19763-1757",
+    "data": "2018-10-04T12:58:31",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "246490",
+    "nome": "Serrano Cole",
+    "telefone": "16309-1915",
+    "data": "2018-10-09T06:46:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "142166",
+    "nome": "Carmen Jordan",
+    "telefone": "14244-1986",
+    "data": "2014-11-23T04:46:44",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "393159",
+    "nome": "Cecile Flores",
+    "telefone": "13170-1140",
+    "data": "2021-05-04T06:51:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "290319",
+    "nome": "Frye Melendez",
+    "telefone": "15733-1779",
+    "data": "2021-06-14T10:18:13",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "397311",
+    "nome": "Horton Holt",
+    "telefone": "15070-1427",
+    "data": "2021-02-20T08:43:18",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "908922",
+    "nome": "Trisha Joyner",
+    "telefone": "12885-1056",
+    "data": "2019-03-06T12:45:13",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "660726",
+    "nome": "Singleton Olson",
+    "telefone": "10529-1195",
+    "data": "2017-07-08T03:23:16",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "804064",
+    "nome": "Burch Whitehead",
+    "telefone": "12442-1646",
+    "data": "2015-12-27T10:13:48",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "540854",
+    "nome": "Betty Salinas",
+    "telefone": "10350-1235",
+    "data": "2016-08-10T02:10:52",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "240883",
+    "nome": "Alexander Albert",
+    "telefone": "14722-1225",
+    "data": "2015-05-22T02:56:24",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "284624",
+    "nome": "Fowler Kelley",
+    "telefone": "10705-1461",
+    "data": "2019-11-26T11:41:45",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "288033",
+    "nome": "Elisabeth Dorsey",
+    "telefone": "10431-1373",
+    "data": "2014-08-01T12:53:47",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "574991",
+    "nome": "Frances David",
+    "telefone": "14958-1608",
+    "data": "2016-07-26T12:38:31",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "438854",
+    "nome": "Cunningham Mccray",
+    "telefone": "17200-1032",
+    "data": "2015-06-12T04:35:23",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "252557",
+    "nome": "Casey Russell",
+    "telefone": "14050-1075",
+    "data": "2017-10-02T03:32:23",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "103314",
+    "nome": "Mclean Conrad",
+    "telefone": "12479-1758",
+    "data": "2014-01-31T12:17:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "692027",
+    "nome": "Johnson Holden",
+    "telefone": "12462-1611",
+    "data": "2019-10-13T06:45:38",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "507558",
+    "nome": "Penny Dominguez",
+    "telefone": "15614-1026",
+    "data": "2016-01-24T08:41:50",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "247973",
+    "nome": "Ramos Kane",
+    "telefone": "12438-1743",
+    "data": "2016-01-03T08:52:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "815263",
+    "nome": "Jacquelyn Mcdowell",
+    "telefone": "16879-1738",
+    "data": "2014-10-19T01:19:19",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "336822",
+    "nome": "Melton Mcgee",
+    "telefone": "10352-1882",
+    "data": "2014-03-12T01:13:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "321024",
+    "nome": "Barrett Tyson",
+    "telefone": "16071-1260",
+    "data": "2021-03-30T01:55:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "382806",
+    "nome": "Lakeisha Allison",
+    "telefone": "14773-1755",
+    "data": "2019-02-26T08:23:09",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "163105",
+    "nome": "Alisha Malone",
+    "telefone": "14791-1323",
+    "data": "2021-07-20T06:52:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "461835",
+    "nome": "Chasity Morton",
+    "telefone": "17158-1647",
+    "data": "2020-03-17T02:06:25",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "238141",
+    "nome": "Brandie Joseph",
+    "telefone": "17869-1678",
+    "data": "2020-04-12T02:10:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "169473",
+    "nome": "Dale Mathews",
+    "telefone": "19249-1932",
+    "data": "2018-11-07T03:26:52",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "168820",
+    "nome": "Guy West",
+    "telefone": "11643-1639",
+    "data": "2014-12-17T02:39:57",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "241458",
+    "nome": "Gracie Valdez",
+    "telefone": "12085-1367",
+    "data": "2015-12-25T10:09:15",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "455206",
+    "nome": "Lesley Charles",
+    "telefone": "10038-1125",
+    "data": "2020-12-04T10:41:03",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "869100",
+    "nome": "Boyle Vazquez",
+    "telefone": "19953-1361",
+    "data": "2017-04-30T07:48:01",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "992137",
+    "nome": "Sherrie Huff",
+    "telefone": "17564-1078",
+    "data": "2016-05-01T05:25:13",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "781425",
+    "nome": "Cummings Simpson",
+    "telefone": "18260-1140",
+    "data": "2016-10-07T03:49:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "615775",
+    "nome": "English Blevins",
+    "telefone": "11665-1132",
+    "data": "2019-02-11T01:29:43",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "431161",
+    "nome": "Steele Harvey",
+    "telefone": "14096-1495",
+    "data": "2014-08-04T08:27:07",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "973764",
+    "nome": "Henrietta Trevino",
+    "telefone": "19586-1887",
+    "data": "2021-08-11T11:40:11",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "905956",
+    "nome": "Alissa James",
+    "telefone": "19163-1608",
+    "data": "2021-08-22T08:01:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "846352",
+    "nome": "Erin Haney",
+    "telefone": "15107-1073",
+    "data": "2020-07-17T05:01:50",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "414331",
+    "nome": "Mcgowan Mosley",
+    "telefone": "16471-1120",
+    "data": "2017-02-04T06:31:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "651602",
+    "nome": "Vera Conner",
+    "telefone": "10545-1191",
+    "data": "2017-07-20T10:54:47",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "777291",
+    "nome": "Deanna Barrett",
+    "telefone": "14691-1632",
+    "data": "2017-05-11T01:51:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "591158",
+    "nome": "Obrien Solis",
+    "telefone": "18816-1203",
+    "data": "2018-01-19T06:31:58",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "397159",
+    "nome": "Joyce Pitts",
+    "telefone": "15374-1043",
+    "data": "2020-04-07T02:25:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "320916",
+    "nome": "Herrera Turner",
+    "telefone": "17283-1706",
+    "data": "2019-09-24T11:25:22",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "950314",
+    "nome": "Rita Page",
+    "telefone": "11742-1171",
+    "data": "2015-06-30T08:51:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "500881",
+    "nome": "Amie Hopper",
+    "telefone": "14742-1054",
+    "data": "2014-06-14T03:19:25",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "821804",
+    "nome": "Gladys Wiggins",
+    "telefone": "18449-1294",
+    "data": "2019-06-22T03:14:18",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "204857",
+    "nome": "Gretchen Jackson",
+    "telefone": "15807-1401",
+    "data": "2018-08-02T03:10:05",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "931013",
+    "nome": "Carolyn Drake",
+    "telefone": "13374-1173",
+    "data": "2015-05-13T05:14:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "900241",
+    "nome": "Mcdonald Crane",
+    "telefone": "15827-1809",
+    "data": "2019-07-16T10:49:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "408434",
+    "nome": "Ware Morse",
+    "telefone": "16839-1500",
+    "data": "2016-06-26T04:32:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "137488",
+    "nome": "Bass Fox",
+    "telefone": "19453-1468",
+    "data": "2014-08-23T06:10:20",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "521804",
+    "nome": "Callahan Lowe",
+    "telefone": "13949-1577",
+    "data": "2018-10-26T06:19:49",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "883754",
+    "nome": "Ellis Munoz",
+    "telefone": "15307-1610",
+    "data": "2020-01-28T06:40:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "900296",
+    "nome": "Lesa Guzman",
+    "telefone": "16202-1155",
+    "data": "2015-01-03T06:37:30",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "141233",
+    "nome": "Hebert Rosales",
+    "telefone": "17497-1245",
+    "data": "2015-01-23T10:20:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "130450",
+    "nome": "Kelly Beach",
+    "telefone": "17326-1859",
+    "data": "2018-05-18T03:15:04",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "801833",
+    "nome": "Debbie Reeves",
+    "telefone": "17809-1171",
+    "data": "2020-08-05T10:09:09",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "856604",
+    "nome": "Benita Hoffman",
+    "telefone": "17422-1122",
+    "data": "2015-08-15T10:18:21",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "798580",
+    "nome": "Consuelo Salazar",
+    "telefone": "10189-1146",
+    "data": "2017-12-23T06:41:15",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "556294",
+    "nome": "Salinas Jacobson",
+    "telefone": "18402-1141",
+    "data": "2019-07-06T07:52:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "228549",
+    "nome": "Lorena Ferguson",
+    "telefone": "11851-1285",
+    "data": "2014-03-17T01:26:23",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "620869",
+    "nome": "Deann Bean",
+    "telefone": "18965-1400",
+    "data": "2019-11-18T05:01:00",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "377655",
+    "nome": "Marva Berg",
+    "telefone": "13632-1792",
+    "data": "2018-03-14T09:36:09",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "486724",
+    "nome": "Shelley Carson",
+    "telefone": "17178-1326",
+    "data": "2017-12-24T02:07:40",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "724189",
+    "nome": "Lynn Andrews",
+    "telefone": "16333-1666",
+    "data": "2019-04-29T08:30:35",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "441714",
+    "nome": "Malone Deleon",
+    "telefone": "18955-1052",
+    "data": "2019-04-16T11:32:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "896277",
+    "nome": "Rasmussen Preston",
+    "telefone": "15637-1848",
+    "data": "2016-01-24T02:19:50",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "787950",
+    "nome": "Carissa Cleveland",
+    "telefone": "17482-1462",
+    "data": "2020-07-09T09:09:01",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "203427",
+    "nome": "Sally Ingram",
+    "telefone": "17453-1905",
+    "data": "2018-05-18T06:37:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "982370",
+    "nome": "Sheena Bruce",
+    "telefone": "16343-1346",
+    "data": "2021-10-19T10:15:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "589569",
+    "nome": "Kelley Peterson",
+    "telefone": "16392-1155",
+    "data": "2014-03-02T12:39:34",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "277776",
+    "nome": "Emerson Stanton",
+    "telefone": "17005-1107",
+    "data": "2018-11-09T12:18:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "706909",
+    "nome": "Marisol Garcia",
+    "telefone": "12674-1591",
+    "data": "2021-09-16T05:57:07",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "650426",
+    "nome": "Kayla Horne",
+    "telefone": "14312-1547",
+    "data": "2017-10-22T01:45:12",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "632463",
+    "nome": "Frieda Holloway",
+    "telefone": "19183-1162",
+    "data": "2014-08-08T02:54:22",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "380962",
+    "nome": "Cristina Kent",
+    "telefone": "19168-1453",
+    "data": "2017-05-09T05:06:50",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "292445",
+    "nome": "Weber Cruz",
+    "telefone": "11587-1970",
+    "data": "2015-03-15T04:45:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "756880",
+    "nome": "Alexandria Mccoy",
+    "telefone": "11812-1895",
+    "data": "2017-07-14T07:56:51",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "131033",
+    "nome": "Kent Levy",
+    "telefone": "11996-1614",
+    "data": "2018-02-10T11:43:10",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "470310",
+    "nome": "Hayes Sweeney",
+    "telefone": "16938-1239",
+    "data": "2014-09-02T07:05:01",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "361578",
+    "nome": "Mallory Velazquez",
+    "telefone": "10458-1102",
+    "data": "2021-07-30T04:23:29",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "177366",
+    "nome": "Darla Roberts",
+    "telefone": "11209-1093",
+    "data": "2020-09-22T03:20:32",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "425560",
+    "nome": "Delores Carr",
+    "telefone": "13975-1753",
+    "data": "2021-08-22T09:23:09",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "284670",
+    "nome": "Yolanda Cote",
+    "telefone": "18888-1156",
+    "data": "2018-11-26T07:03:09",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "916294",
+    "nome": "Petersen Phelps",
+    "telefone": "10493-1302",
+    "data": "2014-10-13T12:53:18",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "573700",
+    "nome": "Ingrid Prince",
+    "telefone": "19406-1886",
+    "data": "2021-05-30T11:48:48",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "884363",
+    "nome": "Velma Waller",
+    "telefone": "11549-1224",
+    "data": "2018-03-21T10:30:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "189782",
+    "nome": "Thompson Gardner",
+    "telefone": "16789-1436",
+    "data": "2016-04-10T11:49:34",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "978336",
+    "nome": "Lilian Mccarthy",
+    "telefone": "16717-1567",
+    "data": "2021-04-22T08:35:30",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "231251",
+    "nome": "Mary Williams",
+    "telefone": "13464-1721",
+    "data": "2019-05-16T04:17:34",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "932439",
+    "nome": "Howell Meyers",
+    "telefone": "16131-1043",
+    "data": "2017-02-16T10:26:32",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "128938",
+    "nome": "Gibbs Richards",
+    "telefone": "14749-1265",
+    "data": "2019-01-16T04:35:20",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "410715",
+    "nome": "Kristina Thompson",
+    "telefone": "15103-1994",
+    "data": "2019-11-29T04:24:32",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "936228",
+    "nome": "Erma Beck",
+    "telefone": "18602-1198",
+    "data": "2017-07-29T08:53:51",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "170069",
+    "nome": "Perkins Mathis",
+    "telefone": "13802-1101",
+    "data": "2018-11-25T03:45:19",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "600683",
+    "nome": "Gay Hurley",
+    "telefone": "19063-1970",
+    "data": "2015-11-30T07:58:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "270881",
+    "nome": "Kim Adkins",
+    "telefone": "15550-1002",
+    "data": "2014-05-10T01:05:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "472877",
+    "nome": "Lourdes Sweet",
+    "telefone": "13288-1303",
+    "data": "2021-08-20T02:25:36",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "328595",
+    "nome": "Macdonald Kaufman",
+    "telefone": "18628-1861",
+    "data": "2016-06-02T01:49:12",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "237340",
+    "nome": "Debora Poole",
+    "telefone": "12519-1542",
+    "data": "2015-10-13T01:06:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "618731",
+    "nome": "Lindsey Trujillo",
+    "telefone": "16124-1079",
+    "data": "2017-06-16T11:48:12",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "589260",
+    "nome": "Bernadine Buckner",
+    "telefone": "10031-1178",
+    "data": "2016-02-28T01:15:50",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "885310",
+    "nome": "Prince Collins",
+    "telefone": "14101-1286",
+    "data": "2018-07-26T10:26:35",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "460025",
+    "nome": "Gina Mcmahon",
+    "telefone": "10599-1302",
+    "data": "2021-03-06T05:01:59",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "250207",
+    "nome": "Henry Mckinney",
+    "telefone": "15652-1983",
+    "data": "2014-08-26T12:30:10",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "619517",
+    "nome": "Talley Copeland",
+    "telefone": "15834-1255",
+    "data": "2021-09-21T07:31:15",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "818330",
+    "nome": "Fannie Melton",
+    "telefone": "19383-1095",
+    "data": "2019-07-15T04:34:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "958778",
+    "nome": "Webb Mayer",
+    "telefone": "15049-1383",
+    "data": "2018-06-18T03:23:16",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "801845",
+    "nome": "Wright Guerrero",
+    "telefone": "12628-1425",
+    "data": "2019-12-29T09:22:06",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "328071",
+    "nome": "Shields Hensley",
+    "telefone": "12669-1781",
+    "data": "2016-12-18T03:04:45",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "955556",
+    "nome": "Marcia Dennis",
+    "telefone": "17379-1332",
+    "data": "2017-10-29T04:20:25",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "552352",
+    "nome": "Mara Sanford",
+    "telefone": "11793-1579",
+    "data": "2015-02-14T02:17:45",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "869955",
+    "nome": "Carroll Lott",
+    "telefone": "11989-1270",
+    "data": "2020-03-08T07:18:24",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "856847",
+    "nome": "Roslyn Blair",
+    "telefone": "18087-1146",
+    "data": "2015-06-16T04:00:13",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "823608",
+    "nome": "Stokes Craft",
+    "telefone": "17817-1368",
+    "data": "2016-07-05T05:34:33",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "897936",
+    "nome": "Mcintyre Rich",
+    "telefone": "17560-1893",
+    "data": "2021-05-03T03:51:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "733625",
+    "nome": "Gibson Harper",
+    "telefone": "12447-1955",
+    "data": "2021-07-18T07:04:31",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "955842",
+    "nome": "Buckley Key",
+    "telefone": "11172-1529",
+    "data": "2021-07-26T05:05:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "310584",
+    "nome": "Sherman Clark",
+    "telefone": "17146-1947",
+    "data": "2018-08-29T03:30:59",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "223574",
+    "nome": "Mcconnell Bullock",
+    "telefone": "11197-1032",
+    "data": "2016-06-07T04:10:30",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "888253",
+    "nome": "Haynes Head",
+    "telefone": "16385-1596",
+    "data": "2021-05-31T06:56:55",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "540439",
+    "nome": "Maryanne Mckee",
+    "telefone": "17975-1387",
+    "data": "2016-11-16T01:31:00",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "493903",
+    "nome": "Mcguire Mejia",
+    "telefone": "18678-1435",
+    "data": "2020-09-14T01:49:22",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "188042",
+    "nome": "Bridges Blanchard",
+    "telefone": "14261-1099",
+    "data": "2017-04-28T01:32:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "720594",
+    "nome": "Davis Horn",
+    "telefone": "11912-1410",
+    "data": "2015-12-22T04:56:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "900015",
+    "nome": "Shari Zamora",
+    "telefone": "14498-1974",
+    "data": "2020-12-21T06:49:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "946175",
+    "nome": "Raquel Reynolds",
+    "telefone": "10484-1990",
+    "data": "2014-04-14T05:21:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "658811",
+    "nome": "Rebecca Eaton",
+    "telefone": "12491-1278",
+    "data": "2017-10-10T03:06:08",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "521156",
+    "nome": "Humphrey Bernard",
+    "telefone": "12560-1221",
+    "data": "2020-08-17T04:42:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "854570",
+    "nome": "Sondra Briggs",
+    "telefone": "17230-1248",
+    "data": "2017-01-30T08:29:04",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "611477",
+    "nome": "Witt Neal",
+    "telefone": "17008-1957",
+    "data": "2021-06-22T06:15:40",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "440050",
+    "nome": "Matilda Whitney",
+    "telefone": "17153-1771",
+    "data": "2015-02-08T08:04:47",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "347668",
+    "nome": "Morse Obrien",
+    "telefone": "14754-1777",
+    "data": "2020-03-02T09:58:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "666184",
+    "nome": "Martha Nash",
+    "telefone": "11737-1093",
+    "data": "2016-03-09T07:15:06",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "537780",
+    "nome": "Daniels Wolf",
+    "telefone": "11897-1818",
+    "data": "2021-08-15T06:09:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "984957",
+    "nome": "Leticia Burke",
+    "telefone": "15616-1036",
+    "data": "2018-02-02T07:33:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "256488",
+    "nome": "Elisa Hale",
+    "telefone": "13182-1946",
+    "data": "2019-10-11T01:12:48",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "265244",
+    "nome": "Cline Fulton",
+    "telefone": "18734-1516",
+    "data": "2020-02-07T12:10:03",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "600279",
+    "nome": "Tara Estes",
+    "telefone": "11763-1657",
+    "data": "2020-05-03T12:02:41",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "478922",
+    "nome": "Inez Burnett",
+    "telefone": "10707-1564",
+    "data": "2020-01-29T08:54:59",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "117720",
+    "nome": "Sweet Becker",
+    "telefone": "19897-1516",
+    "data": "2019-02-04T12:52:03",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "664432",
+    "nome": "Madeline Cline",
+    "telefone": "18138-1342",
+    "data": "2017-10-11T02:54:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "903479",
+    "nome": "Bryan Hooper",
+    "telefone": "19945-1894",
+    "data": "2021-07-29T12:35:41",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "172158",
+    "nome": "Sullivan Sargent",
+    "telefone": "10156-1951",
+    "data": "2016-09-30T12:42:44",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "908529",
+    "nome": "Schroeder Johnston",
+    "telefone": "14121-1112",
+    "data": "2018-02-19T11:20:35",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "417839",
+    "nome": "May Stevenson",
+    "telefone": "14071-1917",
+    "data": "2015-12-11T09:43:16",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "134119",
+    "nome": "Wilda Ballard",
+    "telefone": "16422-1251",
+    "data": "2020-02-27T03:42:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "650663",
+    "nome": "Janis Snow",
+    "telefone": "10217-1306",
+    "data": "2018-01-12T12:16:01",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "472826",
+    "nome": "Acevedo Houston",
+    "telefone": "17899-1567",
+    "data": "2014-08-22T06:12:30",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "193184",
+    "nome": "Hendricks Reyes",
+    "telefone": "14060-1404",
+    "data": "2021-09-26T06:55:00",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "321033",
+    "nome": "Moreno Parrish",
+    "telefone": "16352-1862",
+    "data": "2021-09-22T10:19:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "684082",
+    "nome": "Gena Watkins",
+    "telefone": "14719-1688",
+    "data": "2016-07-27T05:28:31",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "506115",
+    "nome": "Chambers Goff",
+    "telefone": "10510-1436",
+    "data": "2015-11-02T10:42:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "304420",
+    "nome": "Little Richmond",
+    "telefone": "16015-1453",
+    "data": "2017-04-15T03:47:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "736027",
+    "nome": "Harvey Moran",
+    "telefone": "16011-1240",
+    "data": "2017-01-15T03:42:57",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "293788",
+    "nome": "Washington Dalton",
+    "telefone": "10893-1532",
+    "data": "2019-09-17T01:37:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "739810",
+    "nome": "Etta Thomas",
+    "telefone": "15606-1787",
+    "data": "2021-05-12T08:21:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "268828",
+    "nome": "Charity Pollard",
+    "telefone": "19122-1500",
+    "data": "2021-10-07T09:56:41",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "422283",
+    "nome": "Lancaster Sparks",
+    "telefone": "18785-1344",
+    "data": "2016-01-16T09:31:41",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "735182",
+    "nome": "Gilda Chen",
+    "telefone": "11732-1940",
+    "data": "2018-09-24T11:26:34",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "529505",
+    "nome": "Tracie Atkinson",
+    "telefone": "12578-1646",
+    "data": "2014-05-19T06:57:16",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "709857",
+    "nome": "Sandy May",
+    "telefone": "13515-1672",
+    "data": "2020-05-19T04:36:59",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "703471",
+    "nome": "Fox Cherry",
+    "telefone": "13323-1029",
+    "data": "2020-03-19T06:09:36",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "267847",
+    "nome": "Crystal Hudson",
+    "telefone": "15101-1948",
+    "data": "2016-11-30T11:21:08",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "403590",
+    "nome": "Tameka Bartlett",
+    "telefone": "19073-1268",
+    "data": "2019-09-29T07:25:33",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "627402",
+    "nome": "Eloise Sexton",
+    "telefone": "19021-1550",
+    "data": "2016-01-20T02:25:33",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "699750",
+    "nome": "Lila Holmes",
+    "telefone": "14211-1812",
+    "data": "2014-10-21T04:55:27",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "662529",
+    "nome": "Joni Park",
+    "telefone": "10449-1732",
+    "data": "2017-06-08T02:55:40",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "899342",
+    "nome": "Duffy Warner",
+    "telefone": "10001-1493",
+    "data": "2021-07-14T12:22:13",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "560956",
+    "nome": "Foreman Jefferson",
+    "telefone": "19300-1714",
+    "data": "2021-11-08T08:16:13",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "793313",
+    "nome": "Harmon Barnett",
+    "telefone": "15070-1474",
+    "data": "2021-04-02T06:58:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "625010",
+    "nome": "Geraldine Livingston",
+    "telefone": "17841-1353",
+    "data": "2021-09-28T11:37:10",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "460344",
+    "nome": "Jan Chase",
+    "telefone": "17330-1858",
+    "data": "2016-07-13T10:26:14",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "549467",
+    "nome": "Rollins Holcomb",
+    "telefone": "17124-1918",
+    "data": "2016-12-11T05:48:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "306103",
+    "nome": "Small Cantrell",
+    "telefone": "19160-1854",
+    "data": "2017-08-29T07:37:21",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "148656",
+    "nome": "Hollie Lucas",
+    "telefone": "13644-1655",
+    "data": "2020-12-26T06:59:08",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "834883",
+    "nome": "Gallagher Day",
+    "telefone": "16948-1004",
+    "data": "2017-09-13T10:27:16",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "406140",
+    "nome": "Pauline Nicholson",
+    "telefone": "14193-1012",
+    "data": "2020-07-25T09:19:51",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "190539",
+    "nome": "Burke Mcpherson",
+    "telefone": "14116-1740",
+    "data": "2019-10-31T07:20:05",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "785598",
+    "nome": "Phelps Norman",
+    "telefone": "11724-1469",
+    "data": "2018-10-21T05:10:55",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "490462",
+    "nome": "Ortiz Good",
+    "telefone": "10313-1934",
+    "data": "2017-11-13T10:44:05",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "671619",
+    "nome": "Karyn Greer",
+    "telefone": "13299-1177",
+    "data": "2018-12-20T10:49:43",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "201522",
+    "nome": "Dominique Stanley",
+    "telefone": "13073-1797",
+    "data": "2021-10-30T05:26:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "203787",
+    "nome": "Rodriquez Petersen",
+    "telefone": "18148-1744",
+    "data": "2020-04-20T03:01:32",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "974168",
+    "nome": "Cassie Nieves",
+    "telefone": "11765-1467",
+    "data": "2015-01-28T11:25:27",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "888105",
+    "nome": "Lea Smith",
+    "telefone": "11485-1225",
+    "data": "2021-10-25T09:29:10",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "926031",
+    "nome": "Silva Cotton",
+    "telefone": "10740-1206",
+    "data": "2020-06-13T10:12:22",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "200613",
+    "nome": "Griffith Kelly",
+    "telefone": "12845-1926",
+    "data": "2016-01-14T04:02:41",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "773532",
+    "nome": "Mccullough Sampson",
+    "telefone": "14069-1074",
+    "data": "2018-04-14T02:43:41",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "203365",
+    "nome": "Eva Lara",
+    "telefone": "11480-1647",
+    "data": "2017-10-15T06:39:41",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "869261",
+    "nome": "Kramer Yates",
+    "telefone": "12525-1913",
+    "data": "2018-05-18T05:18:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "470179",
+    "nome": "Annmarie Frank",
+    "telefone": "16389-1365",
+    "data": "2015-05-05T05:30:29",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "645275",
+    "nome": "Coleman Patel",
+    "telefone": "11429-1825",
+    "data": "2019-03-26T05:42:07",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "918231",
+    "nome": "Nanette Mcleod",
+    "telefone": "17936-1840",
+    "data": "2018-07-22T02:59:37",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "268279",
+    "nome": "Kim Macdonald",
+    "telefone": "16123-1233",
+    "data": "2021-03-13T04:17:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "102310",
+    "nome": "Terrell Stein",
+    "telefone": "19096-1344",
+    "data": "2019-05-04T12:25:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "401320",
+    "nome": "Tamika Russo",
+    "telefone": "10162-1003",
+    "data": "2018-10-20T01:59:40",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "615250",
+    "nome": "Gaines Steele",
+    "telefone": "14217-1599",
+    "data": "2015-04-15T06:24:51",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "672203",
+    "nome": "Lucinda Larsen",
+    "telefone": "14250-1598",
+    "data": "2015-03-25T02:02:40",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "286515",
+    "nome": "Joan Branch",
+    "telefone": "12225-1354",
+    "data": "2018-02-20T11:14:52",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "951682",
+    "nome": "Tanya Hopkins",
+    "telefone": "10848-1943",
+    "data": "2019-09-05T05:23:59",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "453629",
+    "nome": "Mann Walton",
+    "telefone": "18027-1118",
+    "data": "2018-02-06T01:15:28",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "863653",
+    "nome": "Bonner Evans",
+    "telefone": "15160-1187",
+    "data": "2014-01-31T07:25:48",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "328387",
+    "nome": "Marsh Matthews",
+    "telefone": "19323-1389",
+    "data": "2014-01-19T03:13:02",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "707551",
+    "nome": "Medina Ellis",
+    "telefone": "10069-1797",
+    "data": "2016-01-27T08:56:01",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "615341",
+    "nome": "Carol Daugherty",
+    "telefone": "13754-1696",
+    "data": "2019-02-14T10:25:34",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "691844",
+    "nome": "Rush Harris",
+    "telefone": "17120-1363",
+    "data": "2018-04-23T10:24:55",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "916583",
+    "nome": "Marshall Rojas",
+    "telefone": "11717-1030",
+    "data": "2015-09-22T05:26:14",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "347759",
+    "nome": "Tessa Young",
+    "telefone": "17738-1657",
+    "data": "2017-02-24T06:19:50",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "755786",
+    "nome": "Doyle Skinner",
+    "telefone": "14128-1709",
+    "data": "2021-11-09T05:51:55",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "584379",
+    "nome": "Wanda Cox",
+    "telefone": "10581-1413",
+    "data": "2015-10-17T02:58:57",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "610899",
+    "nome": "Faulkner Mccall",
+    "telefone": "18576-1053",
+    "data": "2020-12-24T10:44:50",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "866555",
+    "nome": "Rivas Anderson",
+    "telefone": "14433-1678",
+    "data": "2017-09-11T10:09:52",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "324418",
+    "nome": "Jacobson Morales",
+    "telefone": "11385-1069",
+    "data": "2017-01-15T11:03:25",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "350544",
+    "nome": "Fay Chan",
+    "telefone": "14685-1860",
+    "data": "2017-07-04T04:47:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "283689",
+    "nome": "Orr Jensen",
+    "telefone": "17367-1298",
+    "data": "2020-03-20T12:27:08",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "157012",
+    "nome": "Aline Robertson",
+    "telefone": "13157-1703",
+    "data": "2017-03-24T05:34:16",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "431229",
+    "nome": "Noreen Bell",
+    "telefone": "19213-1431",
+    "data": "2018-05-02T08:47:44",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "723806",
+    "nome": "Jeanine Clayton",
+    "telefone": "12377-1086",
+    "data": "2021-02-28T05:27:29",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "445084",
+    "nome": "Koch Randall",
+    "telefone": "15234-1578",
+    "data": "2014-09-15T12:34:44",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "559716",
+    "nome": "Bird Waters",
+    "telefone": "18577-1210",
+    "data": "2020-10-15T01:18:51",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "579064",
+    "nome": "Murray Henderson",
+    "telefone": "17719-1878",
+    "data": "2020-08-12T12:56:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "385708",
+    "nome": "Mclaughlin Mullins",
+    "telefone": "11796-1213",
+    "data": "2018-07-09T05:16:18",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "327822",
+    "nome": "Reed Estrada",
+    "telefone": "13163-1044",
+    "data": "2020-12-21T07:52:14",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "326652",
+    "nome": "Kerry Levine",
+    "telefone": "19380-1141",
+    "data": "2021-07-16T10:13:38",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "257091",
+    "nome": "Jannie Todd",
+    "telefone": "14473-1017",
+    "data": "2019-09-20T09:36:47",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "828489",
+    "nome": "Anthony Lewis",
+    "telefone": "16098-1306",
+    "data": "2020-03-23T12:35:57",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "754531",
+    "nome": "Caitlin Reese",
+    "telefone": "18459-1430",
+    "data": "2014-10-24T04:51:55",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "962609",
+    "nome": "Terrie Bowers",
+    "telefone": "10941-1116",
+    "data": "2020-06-03T08:31:12",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "638921",
+    "nome": "Lara Parks",
+    "telefone": "18894-1353",
+    "data": "2019-04-10T06:19:24",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "923769",
+    "nome": "Bolton Cameron",
+    "telefone": "10760-1375",
+    "data": "2018-03-18T12:26:16",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "569434",
+    "nome": "Holland Wooten",
+    "telefone": "14639-1166",
+    "data": "2021-02-07T10:23:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "786824",
+    "nome": "Lynda Mcintyre",
+    "telefone": "16015-1206",
+    "data": "2014-01-24T02:31:53",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "849755",
+    "nome": "Hatfield Mercer",
+    "telefone": "12545-1683",
+    "data": "2020-03-11T04:46:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "460856",
+    "nome": "Ball Kline",
+    "telefone": "19055-1923",
+    "data": "2018-10-15T08:05:08",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "850200",
+    "nome": "Grace Ramsey",
+    "telefone": "12274-1241",
+    "data": "2021-09-12T12:48:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "427000",
+    "nome": "Jacklyn Carney",
+    "telefone": "19418-1019",
+    "data": "2020-03-17T10:36:34",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "938548",
+    "nome": "Kline Hoover",
+    "telefone": "16842-1762",
+    "data": "2020-03-12T12:08:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "619712",
+    "nome": "Ada Salas",
+    "telefone": "14345-1536",
+    "data": "2018-03-08T03:54:18",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "606643",
+    "nome": "Ina Douglas",
+    "telefone": "15648-1322",
+    "data": "2015-07-21T08:24:46",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "269751",
+    "nome": "Eula Gamble",
+    "telefone": "18079-1481",
+    "data": "2017-10-22T11:47:48",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "683350",
+    "nome": "Della Pugh",
+    "telefone": "17899-1338",
+    "data": "2016-04-15T01:51:31",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "162162",
+    "nome": "Cherry Roth",
+    "telefone": "15063-1140",
+    "data": "2017-09-12T01:45:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "125248",
+    "nome": "Marta Farmer",
+    "telefone": "12572-1937",
+    "data": "2020-06-10T07:47:49",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "192350",
+    "nome": "Brandy Daniel",
+    "telefone": "15747-1499",
+    "data": "2020-03-20T03:36:06",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "143928",
+    "nome": "Rhodes Tran",
+    "telefone": "14013-1415",
+    "data": "2014-09-22T07:55:37",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "385348",
+    "nome": "Jasmine Nolan",
+    "telefone": "17827-1924",
+    "data": "2018-03-03T03:10:21",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "356950",
+    "nome": "Hayden Roberson",
+    "telefone": "17729-1845",
+    "data": "2014-06-14T10:52:14",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "414659",
+    "nome": "Velasquez Austin",
+    "telefone": "18277-1443",
+    "data": "2020-09-14T11:10:56",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "611770",
+    "nome": "Mcpherson Dillard",
+    "telefone": "15963-1480",
+    "data": "2020-01-20T02:49:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "853070",
+    "nome": "Leigh Garrett",
+    "telefone": "12764-1248",
+    "data": "2016-07-12T08:09:06",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "967739",
+    "nome": "Finley Pratt",
+    "telefone": "13806-1387",
+    "data": "2019-09-23T07:21:04",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "418532",
+    "nome": "Watts Summers",
+    "telefone": "10123-1144",
+    "data": "2015-08-15T08:24:55",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "383602",
+    "nome": "Goodman Mcintosh",
+    "telefone": "14262-1504",
+    "data": "2015-02-13T12:13:05",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "566843",
+    "nome": "Olson Stevens",
+    "telefone": "12266-1704",
+    "data": "2016-08-28T04:35:16",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "603772",
+    "nome": "Haley Miller",
+    "telefone": "12362-1024",
+    "data": "2017-05-22T11:41:26",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "362396",
+    "nome": "Natalie Carpenter",
+    "telefone": "17978-1473",
+    "data": "2014-07-06T03:29:42",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "117446",
+    "nome": "Schwartz Hayes",
+    "telefone": "18852-1044",
+    "data": "2021-10-10T07:23:08",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "705608",
+    "nome": "Summers French",
+    "telefone": "18402-1604",
+    "data": "2014-07-26T05:28:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "579124",
+    "nome": "Amparo Chang",
+    "telefone": "17258-1544",
+    "data": "2017-09-25T12:30:11",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "508177",
+    "nome": "Clemons Boyle",
+    "telefone": "11913-1812",
+    "data": "2018-05-11T07:24:07",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "433658",
+    "nome": "Raymond Pittman",
+    "telefone": "16307-1780",
+    "data": "2014-07-12T04:51:54",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "205512",
+    "nome": "Hess Ortega",
+    "telefone": "16289-1577",
+    "data": "2014-07-17T04:28:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "850544",
+    "nome": "Shaw Oneil",
+    "telefone": "14678-1514",
+    "data": "2017-04-16T09:47:06",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "902801",
+    "nome": "Josefa Mcdaniel",
+    "telefone": "16154-1381",
+    "data": "2019-12-16T02:05:00",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "843837",
+    "nome": "Billie Klein",
+    "telefone": "13305-1208",
+    "data": "2014-04-05T06:37:05",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "266324",
+    "nome": "Lara Gross",
+    "telefone": "17647-1526",
+    "data": "2017-07-31T03:58:05",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "482812",
+    "nome": "Dale Brooks",
+    "telefone": "11394-1136",
+    "data": "2017-07-02T01:49:35",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "832687",
+    "nome": "Murphy Cervantes",
+    "telefone": "10074-1348",
+    "data": "2014-10-19T09:46:08",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "141033",
+    "nome": "Lauren Jones",
+    "telefone": "10639-1615",
+    "data": "2021-10-02T11:36:58",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "777365",
+    "nome": "Jacobs Fowler",
+    "telefone": "19832-1331",
+    "data": "2018-11-07T12:53:39",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "951669",
+    "nome": "Brandi Holland",
+    "telefone": "11722-1698",
+    "data": "2018-03-01T01:28:47",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "696103",
+    "nome": "Dyer Cannon",
+    "telefone": "11553-1705",
+    "data": "2021-05-15T02:04:20",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "256237",
+    "nome": "Knowles Rogers",
+    "telefone": "19783-1133",
+    "data": "2017-07-28T07:21:37",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "706752",
+    "nome": "Hunter Thornton",
+    "telefone": "18675-1434",
+    "data": "2019-10-22T05:47:17",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  },
+  {
+    "serial": "202616",
+    "nome": "Valarie Vaughn",
+    "telefone": "18127-1297",
+    "data": "2017-09-14T07:44:36",
+    "operadora": {
+      "categoria": "Celular",
+      "codigo": 14,
+      "nome": "Oi",
+      "preco": 2
+    }
+  }
+]

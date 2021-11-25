@@ -5,6 +5,7 @@
   "engines": {
     "node": "v16.13.0"
   },
+  "type": "module",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
@@ -16,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^6.0.13",
     "underscore": "^1.13.1"

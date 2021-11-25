@@ -1,10 +1,11 @@
-const express = require('express');
-const router = express.Router();
-const service = require('../services/service.factory').getService();
+import { Router } from 'express';
+import { contatosController } from '../controllers/contatos.controller.js';
 
-router.get('/', service.getContatos);
-router.get('/:contatoId', service.getContato);
-router.post('/', service.saveContato);
-router.delete('/:contatoId', service.deleteContato);
+const contatosRouter = Router();
 
-module.exports = router;
+contatosRouter.get('/', contatosController.getContatos);
+contatosRouter.get('/:contatoId', contatosController.getContato);
+contatosRouter.post('/', contatosController.saveContato);
+contatosRouter.delete('/:contatoId', contatosController.deleteContato);
+
+export { contatosRouter };
