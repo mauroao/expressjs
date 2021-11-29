@@ -1,12 +1,13 @@
-import { fakeService } from './mock.service.js';
-// import {} from './mongodb.service';
+import { fakeService } from './fake/fake.service.js';
+import { connectToMongoDb } from './mongodb/mongodb.helpers';
+import { mongoDbService } from './mongodb/mongodb.service';
 
 const use_mongo = process.env.USE_MONGO;
 
 export function getService() {
   if (use_mongo) {
-    return fakeService; // ToDo: refactor mongo service ...
-  } else {
-    return fakeService;
+    connectToMongoDb();
+    return mongoDbService;
   }
+  return fakeService;
 }

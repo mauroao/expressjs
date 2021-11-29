@@ -11,9 +11,10 @@
 - It uses [MongoDB](https://www.mongodb.com);
 - This app is hosted at [heroku.com](https://www.heroku.com);
 
-## Prerequisites 
+## Prerequisites
 
-- It uses [Node.js v16.13.0](http://nodejs.org);
+- [Node.js v16.13.0](http://nodejs.org);
+- [Visual Studio Code](https://code.visualstudio.com) (install theese plugins: ESLint and EditorConfig);
 
 ## Get Started
 
@@ -28,20 +29,20 @@ Open terminal, type the following commands:
 
 - Open `/src/config/config.js` file;
 - Change the value of `mocking` variable to `true` or `false`;
-- If `true`: the api will load mock data; 
+- If `true`: the api will load mock data;
 - If `false` api will load data from a mongo db instance;
-- If database is choosen, configure an environment variable to set the database connection string as follows: 
+- If database is choosen, configure an environment variable to set the database connection string as follows:
 
 ```bash
 > export LISTA_TELEFONICA_MONGODB_ADDRESS="mongodb://user:pass@xxxxx.mlab.com:45357/lista-telefonica"
-``` 
+```
 
 ## Run
 ```bash
 > npm start
 ```
 
-## Run lint 
+## Run lint
 
 ```bash
 > npm test
