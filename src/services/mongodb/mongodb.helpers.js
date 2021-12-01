@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 
 const options = {
-  keepAlive: 300000,
+  keepAlive: true,
   connectTimeoutMS: 30000,
   useNewUrlParser: true,
   useUnifiedTopology: true
@@ -14,6 +14,10 @@ export const db_path =
   'mongodb://127.0.0.1/lista-telefonica';
 
 export function connectToMongoDb() {
+  if (mongoose.connection.readyState != 0) {
+    return;
+  }
+
   console.log('connecting to ', db_path, '...');
   mongoose
     .connect(db_path, options)

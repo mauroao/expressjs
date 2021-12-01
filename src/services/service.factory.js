@@ -1,6 +1,6 @@
 import { fakeService } from './fake/fake.service.js';
-import { connectToMongoDb } from './mongodb/mongodb.helpers';
-import { mongoDbService } from './mongodb/mongodb.service';
+import { connectToMongoDb } from './mongodb/mongodb.helpers.js';
+import { mongoDbService } from './mongodb/mongodb.service.js';
 
 const use_mongo = process.env.USE_MONGO;
 

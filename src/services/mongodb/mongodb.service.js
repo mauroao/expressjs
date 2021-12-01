@@ -1,6 +1,6 @@
 import { handleError, db_path } from './mongodb.helpers.js';
-import { contatoModel } from './models/contato.model';
-import { operadoraModel } from './models/operadora.model';
+import { contatoModel } from './models/contato.model.js';
+import { operadoraModel } from './models/operadora.model.js';
 
 export const mongoDbService = {
   getServiceDescription: () => {
