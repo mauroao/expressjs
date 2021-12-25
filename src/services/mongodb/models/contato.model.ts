@@ -16,6 +16,4 @@ const contatoSchema = new mongoose.Schema({
   }
 });
 
-const contatoModel = mongoose.model('Contato', contatoSchema);
-
-export { contatoModel };
+export const contatoModel = mongoose.model('Contato', contatoSchema);

@@ -7,6 +7,4 @@ const operadoraSchema = new mongoose.Schema({
   preco: { type: Number }
 });
 
-const operadoraModel = mongoose.model('Operadora', operadoraSchema);
-
-export { operadoraModel };
+export const operadoraModel = mongoose.model('Operadora', operadoraSchema);

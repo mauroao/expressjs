@@ -1,4 +1,4 @@
-import { getService } from '../services/service.factory.js';
+import { getService } from '../../services/service.factory';
 
 const service = getService();
 

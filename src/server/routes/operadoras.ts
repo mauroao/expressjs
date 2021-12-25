@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { operadorasController } from '../controllers/operadoras.controller.js';
+import { operadorasController } from '../controllers/operadoras.controller';
 
 const operadorasRouter = Router();
 
