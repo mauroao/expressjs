@@ -24,14 +24,13 @@ export function connectToMongoDb() {
     .then(() => {
       console.log(`[OK] => mongoose.connect('${db_path}')`);
     })
-    .catch((err) => {
+    .catch((err: Error) => {
       console.log(
         `[Error] => mongoose.connect('${db_path}') : ${err.message} `
       );
     });
 }
 
-export const handleError = (err) => {
-  var message = err && err.message ? err.message : 'Erro desconhecido';
-  console.log(`[Mongo DB service error] => ${message}`);
+export const handleError = (err: unknown) => {
+  console.log(`[Mongo DB service error] => ${err}`);
 };

@@ -1,4 +1,6 @@
-export function filterByName(data, namePattern) {
+import { Contato } from '../../domain/entities/contato';
+
+export function filterByName(data: Contato[], namePattern: string) {
   if (!namePattern) {
     return data;
   }
@@ -8,7 +10,7 @@ export function filterByName(data, namePattern) {
   });
 }
 
-export function paginate(data, skip, take) {
+export function paginate(data: Contato[], skip: number, take: number) {
   const start = skip;
   const end = skip + take;
   return data.slice(start, end);
