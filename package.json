@@ -5,12 +5,12 @@
   "engines": {
     "node": "v16.13.0"
   },
-  "main": "build/app.js",
+  "main": "dist/app.js",
   "scripts": {
     "build": "tsc",
     "postinstall": "npm run build",
-    "start": "node build/app.js",
-    "mongo": "USE_MONGO=1 node build/app.js",
+    "start": "node dist/app.js",
+    "mongo": "USE_MONGO=1 node dist/app.js",
     "test": "eslint src/**",
     "lint": "eslint src/**",
     "lint:fix": "eslint --fix src/**"
